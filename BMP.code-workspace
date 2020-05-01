@@ -11,7 +11,7 @@
 		}
 	],
 	"settings": {
-		"python.pythonPath": "/Users/Tim/miniconda3/envs/bmp_conda/bin/python",
+		"python.pythonPath": "/Users/Tim/.virtualenvs/BMPTest-2TB0dYeG/bin/python",
 		"python.linting.flake8Args": [
 			"\"python.linting.flake8Args\": [     \"--max-line-length=120\",     \"--ignore=E402,F841,F401,E302,E305\", ],"
 		]

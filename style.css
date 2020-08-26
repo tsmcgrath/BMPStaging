@@ -156,9 +156,6 @@ a img {
 	font-size: 1.4em;
 }
 
-.post .title h1 {
-}
-
 .post .entry {
 	padding: 0 20px;
 	line-height: 15px;
@@ -179,9 +176,6 @@ a img {
 #sidebar {
 	float: left;
 	width: 300px;
-}
-
-#sidebar-bgtop {
 }
 
 #sidebar-bgbtm {
@@ -229,9 +223,6 @@ a img {
 }
 
 /* Search */
-
-#search {
-}
 
 #search form {
 	margin-bottom: 1.8em;

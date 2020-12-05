@@ -4,7 +4,7 @@ Staging site for the Best Management Practices (BMP's) for the Conservation of T
 This repo is serving as a staging site to resurrect these BMP's to support the non-profit Llano Watershed Alliance.
 https://www.llanoriver.org/
 
-The website was originally built by Texas Parks and Wildlife and the new work continues to be supported by TPWD. Contact: https://tsmcgrath.github.io/BMPStaging/ContactUsIndex.html
+The website was originally built by Texas Parks and Wildlife and the new work continues to be supported by TPWD.
 
 Issues being fixed are tracked here:
 https://github.com/tsmcgrath/BMPStaging/projects/1
